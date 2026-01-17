@@ -1,0 +1,7 @@
+{
+  "name": "Copy of HireAI - Smart Job Discovery & Prep",
+  "description": "A comprehensive AI-powered job searching platform featuring resume analysis, intelligent job matching using Google Search grounding, and real-time mock interviews with Gemini Live.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
